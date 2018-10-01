@@ -1,0 +1,7 @@
+F:\JAVA\C#\TaskParallelLibrary1\TaskParallelLibrary1\bin\Debug\TaskParallelLibrary1.exe.config
+F:\JAVA\C#\TaskParallelLibrary1\TaskParallelLibrary1\bin\Debug\TaskParallelLibrary1.exe
+F:\JAVA\C#\TaskParallelLibrary1\TaskParallelLibrary1\bin\Debug\TaskParallelLibrary1.pdb
+F:\JAVA\C#\TaskParallelLibrary1\TaskParallelLibrary1\obj\Debug\TaskParallelLibrary1.csprojAssemblyReference.cache
+F:\JAVA\C#\TaskParallelLibrary1\TaskParallelLibrary1\obj\Debug\TaskParallelLibrary1.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\TaskParallelLibrary1\TaskParallelLibrary1\obj\Debug\TaskParallelLibrary1.exe
+F:\JAVA\C#\TaskParallelLibrary1\TaskParallelLibrary1\obj\Debug\TaskParallelLibrary1.pdb
